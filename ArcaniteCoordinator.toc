@@ -1,0 +1,10 @@
+﻿## Interface: 11304
+## Title: Arcanite Coordinator
+## Author: psynct
+## Version: 1.0.8
+## Notes: Coordinates arcanite cooldowns within your guild
+## SavedVariables: ArcaniteCoordinatorDB
+
+embeds.xml
+Locale\Locales.xml
+ArcaniteCoordinator.lua
